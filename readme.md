@@ -19,6 +19,7 @@
 - 这玩意需要科学上网，记得哦
 
 ## hadoop
+- 需要你配置spark集群，以及配置pyspark的相关设置
 - HdfsSave.py 将数据保存至hdfs中
 - inverseAlgorithm.py 点赞,投币,收藏权重分析
 - pic1 播放量权重分析
