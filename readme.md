@@ -16,6 +16,7 @@
 ## NLP
 - ChatGpt-2 模型进行的标题提示系统
 - Nlp.py 源码
+- 这玩意需要科学上网，记得哦
 
 ## hadoop
 - HdfsSave.py 将数据保存至hdfs中
